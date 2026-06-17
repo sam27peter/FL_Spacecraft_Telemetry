@@ -1,0 +1,6 @@
+tensorflow[and-cuda]
+flwr
+numpy
+pandas
+scikit-learn
+matplotlib
